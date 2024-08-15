@@ -1,1 +1,1 @@
-# assecibilidade
+# acessibilidade
